@@ -9,11 +9,11 @@ Thorough and meticulous Data Analyst passionate about helping brands succeed thr
 **Phone** : +2349055394735
 
 ## Profile Details
-[Linkedin](bit.ly/30L7tHz)
+**Linkedin** : www.bit.ly/30L7tHz
 
-[GitHub](bit.ly/30XXTRq)
+**GitHub** : www.bit.ly/30XXTRq
 
-[Medium](bit.ly/2zujEfR)
+**Medium** : www.bit.ly/2zujEfR
 
 ## Education
 University of Ibadan, Nigeria
