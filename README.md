@@ -14,3 +14,8 @@ Thorough and meticulous Data Analyst passionate about helping brands succeed thr
 [GitHub](bit.ly/30XXTRq)
 
 [Medium](bit.ly/2zujEfR)
+
+## Education
+University of Ibadan, Nigeria
+
+Bsc. Industrial and Production Engineering, 2018
