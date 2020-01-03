@@ -16,6 +16,27 @@ Thorough and meticulous Data Analyst passionate about helping brands succeed thr
 **Medium** : www.bit.ly/2zujEfR
 
 ## Education
-University of Ibadan, Nigeria
+Bs Industrial and Production Engineering,University of Ibadan, Nigeria, 2018
 
-Bsc. Industrial and Production Engineering, 2018
+## Programming Languages
+* Python
+* SQL
+
+## Core Competencies
+* Data Cleaning/ Wragling
+* Data Visualization
+* Machine Learning
+* Back-end Development
+* Web Scrapping
+* Cloud Technologies with GCP
+
+
+## Data Analyst Toolkit
+* Git/Github
+* Pandas 
+* Numpy
+* Scikit-Learn
+* Google Data Studio
+* Google Big Qwery
+* Beautiful Soup
+* Django
