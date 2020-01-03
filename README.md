@@ -71,8 +71,10 @@ Bs Industrial and Production Engineering,University of Ibadan, Nigeria, 2018
 
 * Machine Learning Model to predict blight tickets default: [link](https://github.com/Oluwabukunmige/Predicting-Blight-Ticket-Default/blob/master/Assignment%204.ipynb)
 
-* Machine Learning Model to predict customer loan
+* Machine Learning Model to predict customer loan [link]
+(https://colab.research.google.com/drive/1UdIMf0yFyEviHlkFvWGHv2bpt1AMCKvG)
 
+* Built a web scrapper using Beautiful Soup to copy movie reviews from metacritic : [link](https://github.com/Oluwabukunmige/Web-Scrappers/blob/master/Movie%20Reviews.md)
 
 
 
