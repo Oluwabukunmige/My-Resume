@@ -40,3 +40,10 @@ Bs Industrial and Production Engineering,University of Ibadan, Nigeria, 2018
 * Google Big Qwery
 * Beautiful Soup
 * Django
+
+## MOOCs/Certification
+### Python
+| Course | Issuer |
+| --- | --- | 
+| Introduction to Data Science with Python | Coursera |
+| Applied Data Science with Python | Coursera | 
