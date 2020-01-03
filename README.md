@@ -62,11 +62,11 @@ Bs Industrial and Production Engineering,University of Ibadan, Nigeria, 2018
 | Data Engineering on GCP | Coursera | Google Cloud |
 
 ## Projects 
-* Built a classiication machine learning using Big Query ML on a google eccomerce dataset of 1 million rows to predict if first time visitors will return to the site. This is to ensure Advertising efforts can be targeted towards those visitors to improve conversion rate and Return on Investment.
+* Built a classiication machine learning using Big Query M on a google eccomerce dataset of 1 million rows to predict if first time visitors will return to the site. This is to ensure Advertising efforts can be targeted towards those visitors to improve conversion rate and Return on Investment.
 
 * Built a Buisiness Intelligence dashboard on the google ecommerce dataset with Data studio and Big query to visualize basic business trends: [link](https://datastudio.google.com/s/lpAq2dzTHKY)
 
-* Built a machine learning model to predict helpdesk response time using Big Query ML implemented using Dialogue flow, google's chat bot API.
+* Built a machine learning model to predict helpdesk response time using Big Query Machine Learning implemented using Dialogue flow, google's chat bot API.
 
 * Machine LMachine Learning Model to predict blight tickets
 default
