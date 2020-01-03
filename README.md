@@ -47,3 +47,19 @@ Bs Industrial and Production Engineering,University of Ibadan, Nigeria, 2018
 | --- | --- | --- |
 | Introduction to Data Science with Python | Coursera | University of Michigan |
 | Applied Data Science with Python | Coursera | University of Michigan |
+| Introduction to CS with Python | Edx | MiT |
+
+### SQL 
+| Course | Issuer |
+| --- | --- |
+| End to End SQL | Mode Analytics |
+
+### Google Cloud Platform
+| Course | Issuer | Institution
+| --- | --- | --- |
+| Data to insights | Coursera | Google Cloud |
+| Machine Learning on GCP | Coursera | Google Cloud |
+| Data Engineering on GCP | Coursera | Google Cloud |
+
+
+
