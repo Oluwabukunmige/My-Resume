@@ -64,5 +64,5 @@ Bs Industrial and Production Engineering,University of Ibadan, Nigeria, 2018
 ## Projects 
 * Built a classiication machine learning on google eccomerce dataset of 1 million rows to predict if first time visitors will return to the site. This is to ensure Advertising efforts can be targeted towards those visitors to improve conversion rate and Return on Investment.
 
-* Built a Buisiness Intelligence dashboard on the google ecommerce dataset with Data studio and Big query to visualize basic business trends
+* Built a Buisiness Intelligence dashboard on the google ecommerce dataset with Data studio and Big query to visualize basic business trends [link](https://datastudio.google.com/s/lpAq2dzTHKY)
 
