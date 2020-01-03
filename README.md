@@ -1,4 +1,5 @@
 # Oluwabukunmi Ige
+## Data Analyst
 
 ## Summary
 Thorough and meticulous Data Analyst passionate about helping brands succeed through leveraging the power of data to make insightful business decisions. Possessing strong technical skills enhanced by my undergraduate training as an engineer.
@@ -68,8 +69,7 @@ Bs Industrial and Production Engineering,University of Ibadan, Nigeria, 2018
 
 * Built a machine learning model to predict helpdesk response time using Big Query Machine Learning implemented using Dialogue flow, google's chat bot API.
 
-* Machine LMachine Learning Model to predict blight tickets
-default
+* Machine Learning Model to predict blight tickets default: [link](https://github.com/Oluwabukunmige/Predicting-Blight-Ticket-Default/blob/master/Assignment%204.ipynb)
 
 * Machine Learning Model to predict customer loan
 
