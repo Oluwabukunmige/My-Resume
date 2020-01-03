@@ -68,5 +68,12 @@ Bs Industrial and Production Engineering,University of Ibadan, Nigeria, 2018
 
 * Built a machine learning model to predict helpdesk response time using Big Query ML implemented using Dialogue flow, google's chat bot API.
 
+* Machine LMachine Learning Model to predict blight tickets
+default
+
+* Machine Learning Model to predict customer loan
+
+
+
 
 
