@@ -61,5 +61,6 @@ Bs Industrial and Production Engineering,University of Ibadan, Nigeria, 2018
 | Machine Learning on GCP | Coursera | Google Cloud |
 | Data Engineering on GCP | Coursera | Google Cloud |
 
-
+## Projects 
+* Built a classiication machine learning on google eccomerce dataset of 1 million rows to predict if first time visitors will return to the site. This is to ensure Advertising efforts can be targeted towards those visitors to improve conversion rate and Return on Investment.
 
