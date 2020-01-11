@@ -24,7 +24,7 @@ Bs Industrial and Production Engineering,University of Ibadan, Nigeria, 2018
 * SQL
 
 ## Core Competencies
-* Data Cleaning/ Wragling
+* Data Cleaning/ Wrangling
 * Data Visualization
 * Machine Learning
 * Back-end Development
